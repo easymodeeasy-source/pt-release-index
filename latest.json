@@ -2,7 +2,7 @@
   "version": "1.1.0",
   "release_date": "2026-05-17",
   "download_url": "https://github.com/easymodeeasy-source/pt-release-index/releases/download/v1.1.0/poketool-windows-v1.1.0.zip",
-  "sha256": "7A1C1B63720F8C0902397918B16A327717716A4B1A5A0C66065388C6415DAE0A",
+  "sha256": "9528326445C1255F43666FA6DA4FC81E3A932D34E4115F0FE6609C725C915FE8",
   "notes": [
     "起動時アップデート機能を追加",
     "画像マッチング精度を改善",
