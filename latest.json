@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
-  "release_date": "2026-05-17",
-  "download_url": "https://github.com/easymodeeasy-source/pt-release-index/releases/download/v1.1.0/poketool-windows-v1.1.0.zip",
+  "version": "1.2.0",
+  "release_date": "2026-05-24",
+  "download_url": "https://github.com/easymodeeasy-source/pt-release-index/releases/download/v1.2.0/poketool-windows-v1.2.0.zip",
   "sha256": "4bbfc960fcaa752d7a623241e70a110a5d0837ebcc05eb6e9cc766405bb634a0",
   "notes": [
     "画像マッチング精度を改善",
