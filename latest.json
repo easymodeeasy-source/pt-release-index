@@ -1,11 +1,11 @@
 {
-  "version": "1.2.0",
+  "version": "1.2.1",
   "release_date": "2026-05-24",
-  "download_url": "https://github.com/easymodeeasy-source/pt-release-index/releases/download/v1.2.0/poketool-windows-v1.2.0-update.zip",
-  "sha256": "4bbfc960fcaa752d7a623241e70a110a5d0837ebcc05eb6e9cc766405bb634a0",
+  "download_url": "https://github.com/easymodeeasy-source/pt-release-index/releases/download/v1.2.1/poketool-windows-v1.2.1-update.zip",
+  "sha256": "6d41643a97252502cc1051e4840d43af1276e4f22f7954ef5c87b699c565d0b8",
   "notes": [
-    "画像マッチング精度を改善",
-    "自分BOXに画像からポケモンを登録できる機能を追加"
+    "更新配布確認用の小更新",
+    "updaterの更新経路確認"
   ],
   "required": false,
   "post_update": {
