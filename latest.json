@@ -2,14 +2,10 @@
   "version": "1.1.0",
   "release_date": "2026-05-17",
   "download_url": "https://github.com/easymodeeasy-source/pt-release-index/releases/download/v1.1.0/poketool-windows-v1.1.0.zip",
-  "sha256": "C8CDF540F92D2F2CC35F4B078B9274F2A1674BABAE55B3515CEB40E6D9657CDB",
+  "sha256": "4bbfc960fcaa752d7a623241e70a110a5d0837ebcc05eb6e9cc766405bb634a0",
   "notes": [
-    "起動時アップデート機能を追加",
     "画像マッチング精度を改善",
-    "自分BOXのUIを改善",
-    "名前付きパーティ保存を追加",
-    "パーティ診断を追加",
-    "ダメージ計算ページを改善"
+    "自分BOXに画像からポケモンを登録できる機能を追加"
   ],
   "required": false,
   "post_update": {
