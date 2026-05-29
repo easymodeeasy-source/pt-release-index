@@ -2,12 +2,14 @@
   "version": "1.3.1",
   "release_date": "2026-05-29",
   "download_url": "https://github.com/easymodeeasy-source/pt-release-index/releases/download/v1.3.1/poketool-windows-v1.3.1-update.zip",
-  "sha256": "8f94ad903aa023c562842234b8f1e9639cebafef28bad5ec3cba2bf1d874c423",
+  "sha256": "12b0780f950fada242a1ecbe0dc137144520dae0611702b6fb84a5bc2f18ef48",
+  "min_updater_version": "1.3.0",
   "notes": [
     "画像認識の候補 fallback を改善し、候補内正解率を 330/330 に改善",
     "赤・橙・黒系アイコンの背景マスク復元を改善",
     "僅差時の合議 rerank により beedrill の top1 認識を改善",
-    "評価レポートに既存/新規 sample 別集計と method 別 recall を追加"
+    "評価レポートに既存/新規 sample 別集計と method 別 recall を追加",
+    "update ZIP を patch-only 化し公開配布物の attack surface を縮小"
   ],
   "required": false,
   "post_update": {
