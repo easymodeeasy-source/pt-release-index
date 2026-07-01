@@ -3,7 +3,7 @@
   "package_type": "patch",
   "min_updater_version": "1.2.1",
   "download_url": "https://github.com/easymodeeasy-source/pt-release-index/releases/download/v1.3.16/poketool-windows-v1.3.16-patch.zip",
-  "sha256": "7f169d3aeed1683a5a959a741f2d0e8df2d84e4d75afafa5a57cb69a5ddfbae5",
+  "sha256": "7091c77fdc2b6fc2c255bab70c1313e5ea0f1e1008f623c3e884fe43632e77cc",
   "notes": [
     "パッチノート.md を参照してください。"
   ],
